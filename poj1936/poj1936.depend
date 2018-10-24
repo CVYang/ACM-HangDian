@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472203054 source:e:\cworkspace\poj1936\main.c
+	<stdio.h>
+	<string.h>
+
