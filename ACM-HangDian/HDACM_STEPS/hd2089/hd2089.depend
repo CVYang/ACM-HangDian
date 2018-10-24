@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1487993018 source:d:\cworkspace\hdacm_steps\hd2089\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
