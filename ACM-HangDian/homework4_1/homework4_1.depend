@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1477236286 source:e:\cworkspace\homework4_1\main.cpp
-	<iostream>
-	<math.h>
-	<stdio.h>
-	<complex>
-
